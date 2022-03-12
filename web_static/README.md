@@ -1,0 +1,1 @@
+Directory for holberton project web_static
