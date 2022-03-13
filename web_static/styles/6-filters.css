@@ -1,5 +1,6 @@
 div.container .filters {
     background-color: white;
+    position: absolute;
     height: 70px;
     width: 100%;
     border: 1px solid #DDDDDD;
@@ -55,6 +56,10 @@ div.container section.filters button:hover {
 }
 ul {
     margin: auto;
+}
+.locations ul {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .amenities ul {
     padding-top: 30px;
